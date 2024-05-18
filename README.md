@@ -1,0 +1,2 @@
+# PseudoBankApp
+School project
