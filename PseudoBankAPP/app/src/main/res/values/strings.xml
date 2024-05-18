@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PseudoBankAPP</string>
+    <string name="update_payment">ÚPRAVA PLATBY</string>
+    <string name="new_payment">Nová Platba</string>
+</resources>
